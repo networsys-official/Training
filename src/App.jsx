@@ -136,7 +136,7 @@ function App() {
 
         <div className="content">
           <div className="page-heading">
-            <div><p className="eyebrow">DIRECTORY <span>·</span> 2026 / 27</p><h1>Student roster</h1><p className="subheading">A clear view of your people, all in one place.</p></div>
+            <div><p className="eyebrow">DIRECTORY <span>·</span> 2026 / 27</p><h1> Networsys Student roster</h1><p className="subheading">A clear view of your people, all in one place.</p></div>
             <button className="primary-button" onClick={openCreate} type="button"><Plus size={17} strokeWidth={2.4} /><span>Add student</span></button>
           </div>
 
